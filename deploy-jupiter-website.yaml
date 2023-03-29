@@ -8,7 +8,7 @@
   tasks:
     - name: update ec2 instance
       yum:
-        name: -.-
+        name: "*"
         state: latest
         update_cache: yes
 
