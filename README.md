@@ -10,6 +10,12 @@ See Project Reference Architecture below.
 
 
 
+
+
+## Ansible project Reference architecture
+
+
+
 ![1 _Ansible_Reference_Architecture](https://user-images.githubusercontent.com/115881685/228834832-f24b5cb7-8c6c-4020-b7c9-799a6a64edb5.jpg)
 
 
@@ -19,7 +25,7 @@ See Project Reference Architecture below.
 
 
 
-Below are screenshots of resouces/services created/used for this project.
+## Below are screenshots of resouces/services created/used for this project.
 
 
 
