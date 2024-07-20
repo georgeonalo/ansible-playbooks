@@ -87,11 +87,11 @@ See Project Reference Architecture below.
 
 
 
-![image](https://user-images.githubusercontent.com/115881685/228837287-b1902e2b-06fa-4a10-8294-833f22239cfd.png)
+
+![alt text](<Screenshot 2024-07-20 at 19.10.31-1.png>)
 
 
 
-![alt text](<Screenshot 2024-07-20 at 19.10.31.png>)
 
 
 
@@ -115,7 +115,7 @@ See Project Reference Architecture below.
 
 
 
-![image](https://user-images.githubusercontent.com/115881685/228838210-e0ab890c-6317-423f-8f57-aac0ee428556.png)
+![alt text](<Screenshot 2024-07-20 at 19.05.05.png>)
 
 
 
