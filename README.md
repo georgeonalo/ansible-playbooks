@@ -91,6 +91,10 @@ See Project Reference Architecture below.
 
 
 
+![alt text](<Screenshot 2024-07-20 at 19.10.31.png>)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/115881685/228837407-4cb6ab1c-1d0a-4741-9a47-985c59f1412e.png)
 
